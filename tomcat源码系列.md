@@ -1,0 +1,12 @@
+*  [一个简单的web服务器](http://www.jianshu.com/p/d506056d2a7f)
+*  [一个简单的servlet容器](http://www.jianshu.com/p/a5c010ff4869)
+*  连接器
+*  创建httpRequest
+*  创建HttpResponse
+* 容器
+* 生命周期
+* 日志记录器
+* 载入器
+* Session管理
+*  关闭钩子
+*  启动tomcat
