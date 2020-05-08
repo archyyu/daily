@@ -1,3 +1,4 @@
-在这里记录生活
+i record my life,thoughts and work in here.
 
-之前是一直在简书上记录，不知道什么原因，简书直接封禁了我所有的账号，所以只能跑到这里
+
+all the essays have been written in JianShu or qqzone,but i donot know why,all have been removed,so i transport them in here.
